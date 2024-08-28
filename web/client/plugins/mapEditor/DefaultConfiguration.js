@@ -54,7 +54,7 @@ export default {
                 "activateQueryTool": false,
                 "activateAddLayerButton": true,
                 "activateAddGroupButton": true,
-                "activateMetedataTool": false,
+                "activateMetadataTool": false,
                 "addLayersPermissions": true,
                 "removeLayersPermissions": true,
                 "sortingPermissions": true,
