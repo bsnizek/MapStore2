@@ -51,7 +51,7 @@
         "addGroupsPermissions": true,
         "removeGroupsPermissions": true,
         "activateWidgetTool": true,
-        "activateMetedataTool": false
+        "activateMetadataTool": false
       },
       "children": [
         "TOCItemsSettings",
