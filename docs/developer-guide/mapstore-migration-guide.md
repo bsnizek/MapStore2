@@ -32,7 +32,7 @@ The table of content (TOC) has been refactored with following changes:
   - `activateSettingsTool` removed property, now the button will be added directly from `TOCItemsSettings` when available
   - `activateQueryTool` removed property, now the button will be directly added by `FilterLayer` plugin, when available
   - `activateDownloadTool` removed property, now the button will be added directly from `LayerDownload` when available
-  - `activateMetedataTool` removed property, now the button will be added directly from `MetadataInfo` when availables
+  - `activateMetadataTool` removed property, now the button will be added directly from `MetadataInfo` when availables
   - `checkPlugins` remove property, now availability of tools rely on the related plugin so this check is not needed anymore  
   - `showFullTitleOnExpand`  removed property, the new style allows for seeing the full title inline without duplicating it
   - `metadataTemplate` this configuration has been moved to `MetadataInfo` plugin
